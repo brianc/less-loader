@@ -1,5 +1,5 @@
 {
-  "name": "less-loader",
+  "name": "absolute-path-less-loader",
   "version": "2.2.2",
   "author": "Tobias Koppers @sokra",
   "description": "less loader module for webpack",

@@ -22,7 +22,6 @@ module.exports = function(source) {
 	var config = {
 		filename: this.resource,
 		paths: [],
-		relativeUrls: true,
 		compress: !!this.minimize
 	};
 	var webpackPlugin = {
